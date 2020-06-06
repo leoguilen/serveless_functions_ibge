@@ -6,7 +6,7 @@
 
 <div>
     <h4 align="center">
-    This project is published in <img height="50" 			src="https://res.cloudinary.com/leoguilen/image/upload/v1591468991/Img_Readme/netlify_cdqt0n.png"><br/><br/>
+    This project is published in <img height="30" 			src="https://res.cloudinary.com/leoguilen/image/upload/v1591468991/Img_Readme/netlify_cdqt0n.png"><br/><br/>
     URL Base: https://ibgefunctions.netlify.app/.netlify
 	</h4>
     <h5 align="center">
