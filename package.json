@@ -1,5 +1,5 @@
 {
-  "name": "function-serveless",
+  "name": "serveless-functions-ibge",
   "version": "1.0.0",
   "description": "Função consume API do IBGE e retornar informações de localização",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
     "netlify-lambda": "^1.6.3"
   }
 }
