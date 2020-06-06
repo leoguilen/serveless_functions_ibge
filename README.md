@@ -6,12 +6,12 @@
 
 <div>
     <h4 align="center">
-    This project is published in <img height="50" 			src="https://res.cloudinary.com/leoguilen/image/upload/v1591468991/Img_Readme/netlify_cdqt0n.png"><br/>
+    This project is published in <img height="30" 			src="https://res.cloudinary.com/leoguilen/image/upload/v1591468991/Img_Readme/netlify_cdqt0n.png"><br/><br/>
     URL Base: https://ibgefunctions.netlify.app/.netlify
 	</h4>
     <h5 align="center">
-        <li><a href="https://ibgefunctions.netlify.app/.netlify/functions/estados" >/functions/estados</a></li>
-        <li><a href="https://ibgefunctions.netlify.app/.netlify/functions/cidades?uf=SP">/functions/cidades?uf=SP</a></li>
+        <li><a href="https://ibgefunctions.netlify.app/.netlify/functions/estados" target="_blank">/functions/estados</a></li>
+        <li><a href="https://ibgefunctions.netlify.app/.netlify/functions/cidades?uf=SP" target="_blank">/functions/cidades?uf=SP</a></li>
     </h5>
 </div>
 
