@@ -10,8 +10,8 @@
     URL Base: https://ibgefunctions.netlify.app/.netlify
 	</h4>
     <h5 align="center">
-        <li><a href="https://ibgefunctions.netlify.app/.netlify/functions/estados" >/functions/estados</a></li>
-        <li><a href="https://ibgefunctions.netlify.app/.netlify/functions/cidades?uf=SP">/functions/cidades?uf=SP</a></li>
+        <li><a href="https://ibgefunctions.netlify.app/.netlify/functions/estados" target="_blank">/functions/estados</a></li>
+        <li><a href="https://ibgefunctions.netlify.app/.netlify/functions/cidades?uf=SP" target="_blank">/functions/cidades?uf=SP</a></li>
     </h5>
 </div>
 
