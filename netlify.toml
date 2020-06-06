@@ -1,3 +1,9 @@
 [build]
     functions = "functionsIBGE"
-    Command = "npm run deploy"
+    Command = "npm run build"
+
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"

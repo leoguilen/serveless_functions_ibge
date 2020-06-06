@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "netlify-lambda serve functions",
-    "deploy": "netlify-lambda build functions"
+    "build": "netlify-lambda build functions"
   },
   "keywords": [],
   "author": "",
