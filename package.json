@@ -1,0 +1,16 @@
+{
+  "name": "function-serveless",
+  "version": "1.0.0",
+  "description": "Função consume API do IBGE e retornar informações de localização",
+  "main": "index.js",
+  "scripts": {
+    "start": "netlify-lambda serve functions",
+    "deploy": "netlify-lambda build functions"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-lambda": "^1.6.3"
+  }
+}
